@@ -1,4 +1,4 @@
-# lifeinkorea
+# Better life in korea
 information about Korea for foreigner.
 Do you wanna study korea language?
 Do you wanna visit in Korea? (short-term :travel, trip, bussiness trip)
